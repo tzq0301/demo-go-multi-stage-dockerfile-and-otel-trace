@@ -1,0 +1,15 @@
+.idea/
+.fleet/
+.vscode
+
+.DS_Store
+
+*.zip
+*.tar
+*.jar
+*.war
+
+*.o
+
+build/
+target/
